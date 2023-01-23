@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MoviesFinal/static/css/main.c7ec3132.css",
+    "main.js": "/MoviesFinal/static/js/main.035e79d0.js",
+    "index.html": "/MoviesFinal/index.html",
+    "main.c7ec3132.css.map": "/MoviesFinal/static/css/main.c7ec3132.css.map",
+    "main.035e79d0.js.map": "/MoviesFinal/static/js/main.035e79d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.035e79d0.js"
+  ]
+}
